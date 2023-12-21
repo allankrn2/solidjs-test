@@ -1,0 +1,23 @@
+{
+  "name": "@backlight-dev/test-component-doc.solidjs-lqfpqyj3",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve rFf9H7CDbYWHzyqmRMmg --open"
+  },
+  "devDependencies": {
+    "babel-preset-solid": "*"
+  },
+  "dependencies": {
+    "solid-js": "*",
+    "solid-styled-components": "*"
+  },
+  "babel": {
+    "presets": [
+      "solid"
+    ]
+  }
+}
